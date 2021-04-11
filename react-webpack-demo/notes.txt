@@ -1,0 +1,6 @@
+>>> Gerekli webpack ve babel dosyalarinin indirilmesi
+ -> npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader file-loader css-loader sass-loader sass webpack webpack-cli style-loader
+ -> npm i -D mini-css-extract-plugin
+
+>>> npm run serve: uygulamayi calistirir
+>>> npm run build: uygulamayi build alir

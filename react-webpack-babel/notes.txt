@@ -1,0 +1,4 @@
+>>> Download webpack: npm i webpack webpack-cli -D
+>>> Download babel: npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader
+>>> Css loader: > npm i css-loader style-loader -D
+>>> Sass loader: > npm i -D sass-loader node-sass
